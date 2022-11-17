@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T19:04:12.891Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yU716kKsf67uG1YEZzoG" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-17T19:32:42.459Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="U4kKONEQ-g_RPU3DHQOH" version="20.5.3" type="github" pages="6">
   <diagram id="4ikQtxZD_PR35KBjlBdZ" name="TRIR org reference">
     <mxGraphModel dx="2238" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="COO" id="0PV4l2RN6ExlgMnc6IIl">
-    <mxGraphModel dx="4102" dy="1720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5481" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="__tivnSJPJ-c5QnjkRlh-0" />
         <mxCell id="__tivnSJPJ-c5QnjkRlh-1" parent="__tivnSJPJ-c5QnjkRlh-0" />
@@ -150,11 +150,26 @@
         <mxCell id="__tivnSJPJ-c5QnjkRlh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-4" target="__tivnSJPJ-c5QnjkRlh-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="__tivnSJPJ-c5QnjkRlh-4" value="COO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#306EFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
-          <mxGeometry x="470" y="10" width="120" height="60" as="geometry" />
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-4" target="S_zeSMHLfcV8j2m1kHDj-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-4" target="S_zeSMHLfcV8j2m1kHDj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-4" target="S_zeSMHLfcV8j2m1kHDj-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-4" target="S_zeSMHLfcV8j2m1kHDj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-4" target="S_zeSMHLfcV8j2m1kHDj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="__tivnSJPJ-c5QnjkRlh-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;COO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#306EFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="1278.12" y="-270" width="181.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="__tivnSJPJ-c5QnjkRlh-7" value="&lt;b&gt;MLO&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US020 Molecular Lab Labor - Sample Prep&lt;br&gt;&lt;br&gt;US021 Molecular Lab Labor - PCR&lt;br&gt;&lt;br&gt;US041 Study Management&lt;br&gt;&lt;br&gt;US042 Accessioning&lt;br&gt;&lt;br&gt;US044 Molecular Lab Management&lt;br&gt;&lt;table width=&quot;233&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;US055 MLO Optimization &amp;amp; QC&lt;br&gt;&lt;br&gt;US056 Molecular Lab Technical&lt;br&gt;&lt;br&gt;US102 Scaling &amp;amp; Sustaining" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
-          <mxGeometry x="590" y="120" width="337.5" height="325" as="geometry" />
+          <mxGeometry x="450" y="120" width="337.5" height="325" as="geometry" />
         </mxCell>
         <mxCell id="lzsAlcliRnoVix8cmEjQ-2" value="Umbrella Group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5EC9FF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry y="-250" width="120" height="60" as="geometry" />
@@ -164,12 +179,6 @@
         </mxCell>
         <mxCell id="lzsAlcliRnoVix8cmEjQ-4" value="Department" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry y="-110" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="lzsAlcliRnoVix8cmEjQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1312.5" y="300" as="sourcePoint" />
-            <mxPoint x="1312.5" y="370" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="S_zeSMHLfcV8j2m1kHDj-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="S_zeSMHLfcV8j2m1kHDj-2" target="S_zeSMHLfcV8j2m1kHDj-17">
           <mxGeometry relative="1" as="geometry">
@@ -260,7 +269,22 @@
           <mxGeometry x="-1215" y="-110" width="290" height="220" as="geometry" />
         </mxCell>
         <mxCell id="S_zeSMHLfcV8j2m1kHDj-31" value="&lt;b&gt;Site Operations &amp;amp; EHS&lt;/b&gt;&lt;br&gt;&lt;br&gt;US030 Site Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
-          <mxGeometry x="302.5" y="120" width="167.5" height="110" as="geometry" />
+          <mxGeometry x="240" y="120" width="167.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-32" value="&lt;b&gt;Quality Systems / Quality Engineering / Regulatory Compliance&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US161 - Cellular Research &amp;amp; Innovation SSF&lt;br&gt;&lt;br&gt;US840 - Regulatory and Quality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="830" y="120" width="337.5" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-34" value="&lt;b&gt;AI/ML Software&amp;nbsp;Architect&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US065 - Research Data Platform&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="1200" y="120" width="337.5" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-36" value="&lt;b&gt;Information Security&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US632 - Information Security" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="1560" y="120" width="337.5" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-37" value="&lt;b&gt;Operations Management&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US040 - Operations Management&lt;br&gt;&lt;br&gt;US100 - Automation&lt;br&gt;&lt;br&gt;US043 - Manufacturing&lt;br&gt;&lt;br&gt;US710 - Supply Chain" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="1930" y="120" width="337.5" height="325" as="geometry" />
+        </mxCell>
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-38" value="&lt;b&gt;Software Engineering / IT&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US060 - Software Engineering&lt;br&gt;&lt;br&gt;US630 - Corporate IT Applications&lt;br&gt;&lt;br&gt;US631 - Corp IT Infrastructure&lt;br&gt;&lt;br&gt;US050 - IT Production Ops" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="2300" y="120" width="337.5" height="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
