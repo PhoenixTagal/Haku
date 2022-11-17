@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T17:55:41.039Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="05rwvG2v4-HyeLvpDlo_" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-17T18:25:32.592Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="oRk6W1gx-Jl-5t9OKEIr" version="20.5.3" type="github" pages="6">
   <diagram id="4ikQtxZD_PR35KBjlBdZ" name="TRIR org reference">
     <mxGraphModel dx="2238" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -138,7 +138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="COO" id="0PV4l2RN6ExlgMnc6IIl">
-    <mxGraphModel dx="3488" dy="2154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2238" dy="1655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="__tivnSJPJ-c5QnjkRlh-0" />
         <mxCell id="__tivnSJPJ-c5QnjkRlh-1" parent="__tivnSJPJ-c5QnjkRlh-0" />
@@ -165,7 +165,7 @@
         <mxCell id="lzsAlcliRnoVix8cmEjQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-7" target="lzsAlcliRnoVix8cmEjQ-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="__tivnSJPJ-c5QnjkRlh-7" value="&lt;b&gt;MLO&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5EC9FF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+        <mxCell id="__tivnSJPJ-c5QnjkRlh-7" value="&lt;b&gt;MLO&lt;/b&gt;&lt;br&gt;&lt;br&gt;US044 Molecular Lab Management" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5EC9FF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry x="692.5" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="__tivnSJPJ-c5QnjkRlh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-10" target="__tivnSJPJ-c5QnjkRlh-14">
@@ -183,7 +183,7 @@
         <mxCell id="__tivnSJPJ-c5QnjkRlh-14" value="US041 Study Management&lt;br&gt;&lt;br&gt;US042 Accessioning&lt;br&gt;&lt;table width=&quot;233&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;&lt;tbody&gt;&lt;tr style=&quot;height:10.2pt&quot; height=&quot;14&quot;&gt;  &lt;td style=&quot;height: 10.2pt; width: 175pt; font-size: 8pt; font-family: Arial;&quot; width=&quot;233&quot; height=&quot;14&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry x="400" y="380" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="__tivnSJPJ-c5QnjkRlh-17" value="US020 Molecular Lab Labor (sample prep)&lt;br&gt;&lt;br&gt;US021 Molecular Lab Labor - PCR&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+        <mxCell id="__tivnSJPJ-c5QnjkRlh-17" value="US020 Molecular Lab Labor - Sample Prep&lt;br&gt;&lt;br&gt;US021 Molecular Lab Labor - PCR" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry x="627.5" y="370" width="250" height="80" as="geometry" />
         </mxCell>
         <mxCell id="__tivnSJPJ-c5QnjkRlh-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-20" target="__tivnSJPJ-c5QnjkRlh-23">
@@ -195,7 +195,7 @@
         <mxCell id="lzsAlcliRnoVix8cmEjQ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="__tivnSJPJ-c5QnjkRlh-20" target="lzsAlcliRnoVix8cmEjQ-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="__tivnSJPJ-c5QnjkRlh-20" value="&lt;b&gt;Site Operations &amp;amp; EHS&lt;/b&gt;&lt;br&gt;&lt;br&gt;US030 Site Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5EC9FF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+        <mxCell id="__tivnSJPJ-c5QnjkRlh-20" value="&lt;b&gt;Site Operations &amp;amp; EHS&lt;/b&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#5EC9FF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry y="120" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="__tivnSJPJ-c5QnjkRlh-23" value="&lt;b&gt;EHS&lt;/b&gt;&lt;br&gt;&lt;br&gt;US030 Site Operations" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFFDFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
@@ -219,8 +219,14 @@
         <mxCell id="lzsAlcliRnoVix8cmEjQ-11" value="&lt;b&gt;Molecular Lab Technical&lt;br&gt;&lt;/b&gt;&lt;br&gt;US056 Molecular Lab Technical&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFFDFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry x="912.5" y="230" width="180" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="lzsAlcliRnoVix8cmEjQ-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="__tivnSJPJ-c5QnjkRlh-1" source="lzsAlcliRnoVix8cmEjQ-13" target="lzsAlcliRnoVix8cmEjQ-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="lzsAlcliRnoVix8cmEjQ-13" value="&lt;b&gt;Scaling &amp;amp; Sustaining&lt;br&gt;&lt;/b&gt;&lt;br&gt;US102 Scaling &amp;amp; Sustaining" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CFFDFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
-          <mxGeometry x="1100" y="230" width="180" height="80" as="geometry" />
+          <mxGeometry x="1152.5" y="230" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="lzsAlcliRnoVix8cmEjQ-17" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;US055 MLO Optimization &amp;amp; QC&lt;/span&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+          <mxGeometry x="1140" y="370" width="205" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
