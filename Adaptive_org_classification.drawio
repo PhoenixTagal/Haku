@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T22:15:13.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M7Qc8t1Ufeb8Sg21_43k" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-17T22:25:48.094Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="wFLMcGIJ310wHgVKavMR" version="20.5.3" type="github" pages="6">
   <diagram id="4ikQtxZD_PR35KBjlBdZ" name="TRIR org reference">
     <mxGraphModel dx="2238" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -349,11 +349,11 @@
         <mxCell id="zdi9AZWYZMdmMMzulF4n-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="mA0xq2Yf-DulrQeC_s-v-1" source="zdi9AZWYZMdmMMzulF4n-1" target="zdi9AZWYZMdmMMzulF4n-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zdi9AZWYZMdmMMzulF4n-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CCO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#306EFF;" vertex="1" parent="mA0xq2Yf-DulrQeC_s-v-1">
+        <mxCell id="zdi9AZWYZMdmMMzulF4n-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CCO (Nitin &amp;amp; Sharon)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#306EFF;" vertex="1" parent="mA0xq2Yf-DulrQeC_s-v-1">
           <mxGeometry x="2034.12" y="-190" width="181.25" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="zdi9AZWYZMdmMMzulF4n-2" value="&lt;b&gt;Human Resources&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US850 - Human Resources" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="mA0xq2Yf-DulrQeC_s-v-1">
-          <mxGeometry x="1956" y="200" width="337.5" height="325" as="geometry" />
+        <mxCell id="zdi9AZWYZMdmMMzulF4n-2" value="&lt;b&gt;Sales / Marketing / Medical Affairs&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US411 - SSF Sales Research&lt;br&gt;&lt;br&gt;US311 - T-Detect Marketing&lt;br&gt;&lt;br&gt;US220 - Market Access&lt;br&gt;&lt;br&gt;US210 - Medical Affairs&lt;br&gt;&lt;br&gt;US211 - MRD Medical Affairs HQ&lt;br&gt;&lt;br&gt;US350 - Diagnostic Management&lt;br&gt;&lt;br&gt;US440 - MRD Pharma BD&lt;br&gt;&lt;br&gt;US360 - Therapeutic Business Dev&lt;br&gt;&lt;br&gt;US340 - Diagnostic Strategy" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="mA0xq2Yf-DulrQeC_s-v-1">
+          <mxGeometry x="1862.75" y="80" width="524" height="466" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
