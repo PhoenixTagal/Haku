@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T22:01:52.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="PuVAH8D9CtYJEjLLnYOa" version="20.5.3" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-11-17T22:15:13.991Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="M7Qc8t1Ufeb8Sg21_43k" version="20.5.3" type="github" pages="6">
   <diagram id="4ikQtxZD_PR35KBjlBdZ" name="TRIR org reference">
     <mxGraphModel dx="2238" dy="555" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -271,7 +271,7 @@
         <mxCell id="S_zeSMHLfcV8j2m1kHDj-31" value="&lt;b&gt;Site Operations &amp;amp; EHS&lt;/b&gt;&lt;br&gt;&lt;br&gt;US030 Site Operations" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry x="240" y="120" width="167.5" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="S_zeSMHLfcV8j2m1kHDj-32" value="&lt;b&gt;Quality Systems / Quality Engineering / Regulatory Compliance&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US161 - Cellular Research &amp;amp; Innovation SSF&lt;br&gt;&lt;br&gt;US840 - Regulatory and Quality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
+        <mxCell id="S_zeSMHLfcV8j2m1kHDj-32" value="&lt;b&gt;Quality Systems / Quality Engineering / Regulatory Compliance&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US840 - Regulatory and Quality" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
           <mxGeometry x="830" y="120" width="337.5" height="325" as="geometry" />
         </mxCell>
         <mxCell id="S_zeSMHLfcV8j2m1kHDj-34" value="&lt;b&gt;AI/ML Software&amp;nbsp;Architect&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US065 - Research Data Platform&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="__tivnSJPJ-c5QnjkRlh-1">
@@ -307,18 +307,27 @@
     </mxGraphModel>
   </diagram>
   <diagram name="CSO" id="Cj4di9YkKef7DrWukCAv">
-    <mxGraphModel dx="1548" dy="2058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2081" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="Tbl4jPrLs6R4rPWI4Tbn-0" />
         <mxCell id="Tbl4jPrLs6R4rPWI4Tbn-1" parent="Tbl4jPrLs6R4rPWI4Tbn-0" />
         <mxCell id="cbQasQOy5V9G4Q2_N7rK-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1" source="cbQasQOy5V9G4Q2_N7rK-1" target="cbQasQOy5V9G4Q2_N7rK-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="RlF8kf2_8_Yyrw351rSr-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1" source="cbQasQOy5V9G4Q2_N7rK-1" target="nxyv4zrAjVCVgOTFbNXF-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RlF8kf2_8_Yyrw351rSr-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1" source="cbQasQOy5V9G4Q2_N7rK-1" target="nxyv4zrAjVCVgOTFbNXF-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="RlF8kf2_8_Yyrw351rSr-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=24;" edge="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1" source="cbQasQOy5V9G4Q2_N7rK-1" target="nxyv4zrAjVCVgOTFbNXF-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cbQasQOy5V9G4Q2_N7rK-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;CSO&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#306EFF;" vertex="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1">
-          <mxGeometry x="2034.12" y="-190" width="181.25" height="110" as="geometry" />
+          <mxGeometry x="2220" y="-170" width="181.25" height="110" as="geometry" />
         </mxCell>
         <mxCell id="cbQasQOy5V9G4Q2_N7rK-2" value="&lt;b&gt;MRI (Research &amp;amp; Development / R&amp;amp;D operations)&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US130 - Molecular Research &amp;amp; Innovation&lt;br&gt;&lt;br&gt;US160 - Cellular Research &amp;amp; Innovation SEA&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1">
-          <mxGeometry x="1956" y="200" width="337.5" height="325" as="geometry" />
+          <mxGeometry x="1955.99" y="200" width="337.5" height="325" as="geometry" />
         </mxCell>
         <mxCell id="nxyv4zrAjVCVgOTFbNXF-0" value="&lt;b&gt;Digital Biotechnologies&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%26gt%3BMRI%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS130%20-%20Molecular%20Research%20%26amp%3Bamp%3B%20Innovation%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS160%20-%20Cellular%20Research%20%26amp%3Bamp%3B%20Innovation%20SEA%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS195%20-%20Innovation%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS199%20-%20Digital%20Biotechnologies%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23C4EFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221956%22%20y%3D%22200%22%20width%3D%22337.5%22%20height%3D%22325%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US199 - Digital Biotechnologies" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1">
           <mxGeometry x="2350" y="200" width="337.5" height="325" as="geometry" />
@@ -326,8 +335,8 @@
         <mxCell id="nxyv4zrAjVCVgOTFbNXF-1" value="&lt;b&gt;Computational Biology&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%26lt%3Bb%26gt%3BMRI%26lt%3B%2Fb%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS130%20-%20Molecular%20Research%20%26amp%3Bamp%3B%20Innovation%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS160%20-%20Cellular%20Research%20%26amp%3Bamp%3B%20Innovation%20SEA%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS195%20-%20Innovation%26lt%3Bbr%26gt%3B%26lt%3Bbr%26gt%3BUS199%20-%20Digital%20Biotechnologies%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfillColor%3D%23C4EFFF%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%221956%22%20y%3D%22200%22%20width%3D%22337.5%22%20height%3D%22325%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US110 - R&amp;amp;D Comp Bioinformatics&lt;br&gt;&lt;br&gt;US195 - Innovation (also appears in MRI)&lt;br&gt;&lt;br&gt;US105 - Comp Bio Pharma" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1">
           <mxGeometry x="2740" y="200" width="337.5" height="325" as="geometry" />
         </mxCell>
-        <mxCell id="nxyv4zrAjVCVgOTFbNXF-2" value="&lt;b&gt;R&amp;amp;D Operations&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1">
-          <mxGeometry x="1570" y="190" width="337.5" height="325" as="geometry" />
+        <mxCell id="nxyv4zrAjVCVgOTFbNXF-2" value="&lt;b&gt;Cellular Research&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;US162 - SSF GNE Personalized&lt;br&gt;&lt;br&gt;US031 - SSF Cellular Lab&lt;br&gt;&lt;br&gt;US161 - Cellular Research &amp;amp; Innovation SSF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#C4EFFF;" vertex="1" parent="Tbl4jPrLs6R4rPWI4Tbn-1">
+          <mxGeometry x="1440" y="200" width="337.5" height="325" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
