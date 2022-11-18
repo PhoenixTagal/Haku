@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T20:45:03.300Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="lOoH3lBay0kSkdDr5B_y" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-18T20:48:48.865Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-Z8klsgQWMjdB9RgSjLl" version="20.5.3" type="github" pages="10">
   <diagram id="4ikQtxZD_PR35KBjlBdZ" name="TRIR org reference">
     <mxGraphModel dx="2169" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,6 +193,9 @@
         <mxCell id="skb4Jlj11IIARicnLkOH-3" value="read out dept code for each umbrella groups into separate dicts" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="430" y="120" width="140" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="QyJez0U9c56EcXyXd4qV-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="skb4Jlj11IIARicnLkOH-4" target="Cb3qVluRbxDVgNqWUZ01-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="skb4Jlj11IIARicnLkOH-4" value="iterate hwpd through umbrella groups&lt;br&gt;&lt;br&gt;this iteration will generate the sum of hours worked per umbrella group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="270" y="300" width="260" height="120" as="geometry" />
         </mxCell>
@@ -212,7 +215,7 @@
           <mxGeometry x="440" y="10" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Cb3qVluRbxDVgNqWUZ01-10" value="Create list or dict from rows" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="300" y="480" width="220" height="130" as="geometry" />
+          <mxGeometry x="290" y="480" width="220" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
