@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T19:56:36.984Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Plvhu-iMUV3W4UmivH-I" version="20.5.3" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-11-18T19:58:02.754Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="I29U50XHsknJsk-C0mrs" version="20.5.3" type="github" pages="10">
   <diagram id="4ikQtxZD_PR35KBjlBdZ" name="TRIR org reference">
-    <mxGraphModel dx="2169" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2169" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,7 +97,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gYOuV9z2l2IZu4v-94iF" name="Compiled Master">
-    <mxGraphModel dx="3459" dy="1803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4631" dy="2271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -177,7 +177,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="JPGACa9Vc3AuNK8GkuSG" name="TRIR Classification">
-    <mxGraphModel dx="1319" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1319" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -190,29 +190,22 @@
         <mxCell id="skb4Jlj11IIARicnLkOH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="skb4Jlj11IIARicnLkOH-3" target="skb4Jlj11IIARicnLkOH-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-3" value="Convert department codes to parent groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="skb4Jlj11IIARicnLkOH-3" value="Convert department codes to umbrella groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="360" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="skb4Jlj11IIARicnLkOH-4" target="skb4Jlj11IIARicnLkOH-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="skb4Jlj11IIARicnLkOH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="skb4Jlj11IIARicnLkOH-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="skb4Jlj11IIARicnLkOH-4" target="skb4Jlj11IIARicnLkOH-6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-4" value="List of hours per parent group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="skb4Jlj11IIARicnLkOH-4" value="sum hours worked per umbrella for given period" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="360" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-5" value="Calculate TRIR for each parent group" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="200" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="skb4Jlj11IIARicnLkOH-6" target="skb4Jlj11IIARicnLkOH-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="skb4Jlj11IIARicnLkOH-6" value="Convert parent groups to umbrella groups" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="520" y="330" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="skb4Jlj11IIARicnLkOH-10" value="Calculate TRIR for each umbrella group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="aBcU4YerZUpp1wAqm8KQ-1" value="Umbrella Groups:&lt;br&gt;&lt;br&gt;MLO" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
