@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-03T00:05:43.728Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="u-EASEyw3L4uR0fAqkzL" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-03T00:07:00.739Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="91_QIo2Y4qJxyZdMAU4s" version="20.5.3" type="github">
   <diagram id="TzTWojON5OBYAdXxNTSG" name="Page-1">
-    <mxGraphModel dx="1363" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2213" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -68,6 +68,9 @@
         </mxCell>
         <mxCell id="gQC99idY5nHxFl9WnmBx-26" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;ec = p/tcrm&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="1070" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gQC99idY5nHxFl9WnmBx-30" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Look into implementing radio button to make UI simpler for tox test&lt;br&gt;&lt;br&gt;Assign each radio button with a value, 1-4, = t&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="45" width="410" height="135" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
